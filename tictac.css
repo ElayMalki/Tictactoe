@@ -1,3 +1,9 @@
+
+/*fireworks
+
+*/
+
+
 @font-face {
     font-family: XOfont;
     src: url(XO.tff);
@@ -15,8 +21,19 @@ body {
 
 }
 
+h1 {
+	position: fixed;
+    left: 34%;
+    top: 23%;
+    font-size: 135px;
+    margin: 0 0 10px;
+    text-align: center;
+    color: red;
+    text-shadow: 0.5px 0.5px 0.5px grey;
+}
+
 main {
-	margin: 70px auto 50px;
+	margin: 90px auto 60px;
 	width: 300px;
 	height: 300px;
 	display: flex;

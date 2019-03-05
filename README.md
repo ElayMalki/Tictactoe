@@ -1,3 +1,3 @@
 # Tictactoe
 
-![screen shot](http://elaymalki.com/tictactoe/ScreenShottictactoe.png)
+![screen shot](http://elaymalki.com/tictactoe/screenshottictactoe.png)
